@@ -2,3 +2,6 @@ this file is to see the merge command in other drive(d)push and pull command
 
 checking for pull command
 
+finally updating pull command
+
+11111111111
