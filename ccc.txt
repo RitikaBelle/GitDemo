@@ -1,3 +1,5 @@
 tis is ccc first demo
 
 this i am checking for commit to see modified message
+
+now checking the log file
