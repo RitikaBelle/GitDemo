@@ -1,8 +1,4 @@
-this file is to see the merge command in other drive(d)
-
-<<<<<<< Updated upstream
-push and pull command
+this file is to see the merge command in other drive(d)push and pull command
 
 checking for pull command
-=======
->>>>>>> Stashed changes
+
