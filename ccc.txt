@@ -1,5 +1,7 @@
-tis is ccc first demo
+this is ccc first demo
 
 this i am checking for commit to see modified message
 
 now checking the log file
+
+this is to check that when modified the file here then in cloned file in D drive should also get the same chnages
